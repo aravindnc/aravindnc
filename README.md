@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Aravind
 
-<p>A Guy who loves to take <b>Risks</b> and <b>Develop Software's</b>. Hustler for life!.</p>
+<p>Programmer | Architect | Full Stack Developer from 2009.</p>
 
 <h3>Technologies & Tools, I love working with</h3>
 <p>
@@ -35,10 +35,6 @@
         </td>
     </tr>
 </table>
-
-<h3>This week I spent my time on</h3>
-<img src="https://github-readme-stats.vercel.app/api/wakatime/?username=aravindnc&theme=dracula&line_height=20&text_color=D3D3D3&bg_color=0,000000,130F40&title_color=ff79c6&icon_color=2234AE" alt="lang stats"/>
-
 
 <h3>Where to find me</h3>
 <p>
